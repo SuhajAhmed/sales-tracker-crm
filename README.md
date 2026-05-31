@@ -22,5 +22,5 @@ A Google Sheets CRM and Sales Dashboard built with:
 
 ## Screenshots
 
-!Screenshot 2026-06-01 002318.png
+Screenshot 2026-06-01 002318.png
 

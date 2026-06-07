@@ -20,9 +20,11 @@ A Google Sheets CRM and Sales Dashboard built with:
 - Code.gs
 - appsscript.json
 
-## Screenshots
+## Dashboard
 ![Dashboard](screenshots/Screenshot%202026-06-01%20002318.png)
+## Sales
 ![Sales](screenshots/Screenshot%202026-06-01%20002352.png)
 ![Customer](screenshots/Screenshot%202026-06-01%20002430.png)
 
-## data/sales-data.xlsx
+## data
+data/Sales_Tracker_CRM_v2.xlsx

@@ -22,3 +22,5 @@ A Google Sheets CRM and Sales Dashboard built with:
 
 ## Screenshots
 ![Dashboard](screenshots/Screenshot%202026-06-01%20002318.png)
+![Sales](screenshots/Screenshot%202026-06-01%20002352.png)
+![Customer](screenshots/Screenshot%202026-06-01%20002430.png)

@@ -26,5 +26,7 @@ A Google Sheets CRM and Sales Dashboard built with:
 ![Sales](screenshots/Screenshot%202026-06-01%20002352.png)
 ![Customer](screenshots/Screenshot%202026-06-01%20002430.png)
 
-## data
-data/Sales_Tracker_CRM_v2.xlsx
+## Dataset
+
+Download CRM Excel file:
+[data/Sales_Tracker_CRM_v2.xlsx](data/Sales_Tracker_CRM_v2.xlsx)
